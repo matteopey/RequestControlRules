@@ -1,7 +1,9 @@
 # RequestControlRules
 
-## Rules:
+## Rules for the Firefox extension [`Request Control`](https://addons.mozilla.org/it/firefox/addon/requestcontrol/)
 
-1. Redirect docs.microsoft.com/it-it to the English site.
+### Rules:
 
-2. Redirect reddit.com to old.reddit.com 
+1. Redirect _docs.microsoft.com/it-it_ to the English site.
+
+2. Redirect _reddit.com_ to _old.reddit.com_
