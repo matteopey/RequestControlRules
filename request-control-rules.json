@@ -1,0 +1,39 @@
+[
+  {
+    "uuid": "c2421c27-a283-420f-b498-a569d25c500b",
+    "pattern": {
+      "scheme": "*",
+      "host": [
+        "docs.microsoft.com"
+      ],
+      "path": [
+        "/it-it/*"
+      ]
+    },
+    "types": [
+      "main_frame"
+    ],
+    "action": "redirect",
+    "active": true,
+    "title": "Microsoft%20docs%20in%20English",
+    "redirectUrl": "https://{hostname}{pathname/\\it\\-it\\/*/en-us/}"
+  },
+  {
+    "uuid": "010e0b0e-ae8c-4a1e-948e-72621bd41c66",
+    "pattern": {
+      "scheme": "*",
+      "host": [
+        "www.reddit.com"
+      ],
+      "path": [
+        "*"
+      ]
+    },
+    "types": [
+      "main_frame"
+    ],
+    "action": "redirect",
+    "active": true,
+    "redirectUrl": "[hostname=old.reddit.com]"
+  }
+]
