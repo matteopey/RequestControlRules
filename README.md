@@ -4,6 +4,6 @@
 
 ### Rules:
 
-1. Redirect _docs.microsoft.com/it-it_ to the English site.
+1. Redirect _learn.microsoft.com/it-it_ to the English site.
 
 2. Redirect _reddit.com_ to _old.reddit.com_
